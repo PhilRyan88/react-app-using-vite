@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  let age = 17;
+  let age = 19;
   if (age < 18) {
     return (
       <>
@@ -95,6 +95,7 @@ function App() {
           manufacturing and selling methamphetamine with a former student to
           secure his family's future.
         </p>
+        <button>{age < 18 ? "Not Available" : "Watch Now"} </button>
       </div>
       <div className="series">
         <div className="poster">
@@ -108,6 +109,7 @@ function App() {
           prince becomes their only hope against a mysterious plague overtaking
           the land.
         </p>
+        <button>{age < 18 ? "Not Avaialble" : "Watch Now"}</button>
       </div>
 
       <div className="series">
@@ -123,6 +125,7 @@ function App() {
           Consequently, many heroes put their lives on the line in the following
           days, weeks and months.
         </p>
+        <button>{age < 18 ? "Not Available" : "Watch Now"}</button>
       </div>
       <div className="series">
         <div className="poster">
@@ -136,6 +139,7 @@ function App() {
           anxious grandson are further complicated by their inter-dimensional
           misadventures.
         </p>
+        <button>{age < 18 ? "Not Available" : "Watch Now"} </button>
       </div>
       <div className="series">
         <div className="poster">
@@ -149,9 +153,9 @@ function App() {
           future who appears in present day on a mission to locate and eradicate
           the source of a deadly plague that will nearly destroy the human race.
         </p>
+        <button>{age < 18 ? "Not Available" : "Watch Now"}</button>
       </div>
     </>
   );
 }
-
 export default App;
