@@ -1,18 +1,18 @@
 [
   {
-    "name": "Lovely Runner",
-    "id": "lovely-runner",
-    "img_url": "http://localhost:5173/images/lr.webp",
+    "name": "Breaking Bad",
+    "id": "Breaking-bad",
+    "img_url": "https://rukminim2.flixcart.com/image/850/1000/juk4gi80/poster/d/m/t/large-newposter9449-designs-tv-show-breaking-bad-walter-white-original-imaf5tjfegvzyhz9.jpeg?q=20&crop=false",
     "rating": "9.8",
     "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu Sun Jae.",
     "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
     "genre": ["Romantic Comedy", "Fantasy"],
-    "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+    "watch_url": "https://www.netflix.com/in/title/70143836?source=35"
   },
   {
     "name": "Stranger Things",
     "id": "stranger-things",
-    "img_url": "http://localhost:5173/images/st.jpg",
+    "img_url": "https://assets.architecturaldigest.in/photos/6008217356e01e341bc3538e/master/w_1600%2Cc_limit/Stranger-Things-poster.png",
     "rating": "8.7",
     "description": "A group of young friends witness supernatural forces and secret government exploits.",
     "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
@@ -22,7 +22,7 @@
   {
     "name": "The Witcher",
     "id": "the-witcher",
-    "img_url": "http://localhost:5173/images/tw.webp",
+    "img_url": "https://rukminim2.flixcart.com/image/850/1000/kr83ukw0/poster/k/8/b/medium-the-witcher-netflix-henry-cavill-orange-eyes-newtvps420-original-imag522frewpghtf.jpeg?q=90&crop=false",
     "rating": "8.2",
     "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world.",
     "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
@@ -32,41 +32,22 @@
   {
     "name": "Money Heist",
     "id": "money-heist",
-    "img_url": "http://localhost:5173/images/mh.jpg",
+    "img_url": "https://i.cdn.newsbytesapp.com/images/l204_7841606834584.jpg",
     "rating": "8.3",
     "description": "A criminal mastermind who goes by 'The Professor' plans the biggest heist in recorded history.",
     "cast": ["Úrsula Corberó", "Álvaro Morte", "Itziar Ituño"],
     "genre": ["Action", "Crime", "Drama"],
     "watch_url": "https://www.netflix.com/title/80192098"
   },
-  {
-    "name": "The Crown",
-    "id": "the-crown",
-    "img_url": "http://localhost:5173/images/tc.webp",
-    "rating": "8.6",
-    "description": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the 20th century.",
-    "cast": ["Claire Foy", "Olivia Colman", "Imelda Staunton"],
-    "genre": ["Biography", "Drama", "History"],
-    "watch_url": "https://www.netflix.com/title/80025678"
-  },
+
   {
     "name": "Squid Game",
     "id": "squid-game",
-    "img_url": "http://localhost:5173/images/sg.webp",
+    "img_url": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/04/Squid-Game-poster.jpg",
     "rating": "8.1",
     "description": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly.",
     "cast": ["Lee Jung-jae", "Park Hae-soo", "Wi Ha-joon"],
     "genre": ["Action", "Drama", "Mystery"],
     "watch_url": "https://www.netflix.com/title/81040344"
-  },
-  {
-    "name": "Queen of Tears",
-    "id": "queen-of-tears",
-    "img_url": "http://localhost:5173/images/qot.jpg",
-    "rating": "TBD",
-    "description": "A gripping tale of love, loss, and resilience set against the backdrop of a war-torn nation.",
-    "cast": ["Kim Soo Hyun", "Kim Ji Won"],
-    "genre": ["Drama", "Romance"],
-    "watch_url": "https://www.viki.com/tv/23456789c-queen-of-tears"
   }
 ]
