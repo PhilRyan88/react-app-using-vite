@@ -4,6 +4,10 @@ export const Card = (props) => {
   return (
     <div className="card" key={id}>
       <section className="des">
+        <div className="poster">
+          <img src={img_url} alt="" width="70%" />
+        </div>
+
         <h1>Name : {name} </h1>
         <h4 className="rating">
           Rating:{" "}
