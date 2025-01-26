@@ -1,5 +1,6 @@
 export const Card = (props) => {
   var { id, img_url, name, rating, genre, description, watch_url } = props.elem;
+  console.log(props.elem);
 
   return (
     <div className="card" key={id}>
